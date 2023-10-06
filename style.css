@@ -1,0 +1,54 @@
+
+body{
+    font-family: monospace;
+    background-image: url(https://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/952/cached.offlinehbpl.hbpl.co.uk/news/NST/GPManDinosaur-20170517024800717.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header{
+    text-align: center;
+    padding-top: 50px;
+    
+}
+.box{
+    display: grid;
+   
+    gap: 10px;
+    grid-template-columns: 0.5fr 5fr;
+    
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    
+}
+
+.pic{
+    height: 200px;
+    width: auto;
+    
+}
+
+h2{
+    text-align: center;
+}
+
+
+p{
+    padding: 20px;
+}
+
+nav{
+    width: 200px;
+}
+
+.sec{
+    border: 2px rgb(0, 0, 0)solid;
+    gap: 20px;
+    background-color: rgba(251, 250, 189, 0.741);
+    
+}
+
+
+
